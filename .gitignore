@@ -1,0 +1,4 @@
+.env
+api_usage.log
+__pycache__/
+.pytest_cache/
